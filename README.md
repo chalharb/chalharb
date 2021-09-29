@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Logan!
 
-## About me
 I'm a Consulting Application Engineer in Nashville, TN
 
 - 😄 My Pronouns: He/Him   
